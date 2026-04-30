@@ -356,4 +356,4 @@ Canon 6D Mark II
 <!-- Последнее обновление — автоматически через GitHub Actions -->
 <sub>Last updated: 2025 · Built with ☕ in Dushanbe, Tajikistan</sub>
 
-</div>
+</div># GRUMM7506
