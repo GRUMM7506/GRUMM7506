@@ -1,257 +1,402 @@
 <!--
-╔══════════════════════════════════════════════════════════════════╗
-║         AKBAR — GITHUB PROFILE README                           ║
-║         Glassmorphism × iOS Style × Premium Portfolio           ║
-║                                                                  ║
-║  ИНСТРУКЦИЯ:                                                     ║
-║  1. Создай репозиторий с именем равным твоему GitHub username    ║
-║  2. Добавь этот файл как README.md в корень репозитория          ║
-║  3. Замени все GRUMM7506 на свой ник                ║
-║  4. Замени все GRUMM7506 на свой Telegram username         ║
-║  5. Вставь реальные ссылки на репозитории проектов               ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║   GRUMM7506 — GITHUB PROFILE README v2                                  ║
+║   Dark Tech × Electric Blue × Silver Chrome                             ║
+║                                                                          ║
+║   ЧЕКЛИСТ ПЕРЕД ПУБЛИКАЦИЕЙ:                                             ║
+║   □ Создай репозиторий GRUMM7506/GRUMM7506                              ║
+║   □ Замени https://play.google.com/store/apps/details?id=com.akbarov.map_route_app&pcampaignid=web_share — ссылка на Маршрут Про в Play Store            ║
+║   □ Замени [PLAY_STORE_MASTEROK] — ссылка на MasterOK в Play Store      ║
+║   □ Настрой Snake Animation (инструкция в конце файла)                  ║
+╚══════════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ═══════════════════ HERO SECTION ═══════════════════ -->
+<!-- ███████████████████ HEADER ███████████████████ -->
 
-<div align="center">
-
-<!-- Волна сверху — атмосферный разделитель -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:16213e&height=200&section=header&text=Akbar&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Math%20×%20Code%20×%20Product&descSize=18&descAlignY=58&descColor=a0a8c0&animation=fadeIn" width="100%"/>
-
-<!-- Typing SVG — анимированный подзаголовок -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C8EFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Flutter+Developer+%F0%9F%92%99;Programmer-Mathematician+%E2%88%AB%CF%80;Building+products+from+Dushanbe+%F0%9F%87%B9%F0%9F%87%AF;I+write+algorithms+faster+than+you+Google+routes+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!--
+  capsule-render type=cylinder даёт 3D-объёмный эффект верхней полосы.
+  animation=blinking — мягкое пульсирование (не агрессивное, как fade).
+  Цвета: #050a14 → #0d1a35 — точно под фон логотипа.
+-->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050a14,40:0d1a35,80:091228,100:020408&height=180&section=header&text=AKBAROV%20DEV&fontSize=58&fontColor=e8f0ff&fontAlignY=50&desc=GRUMM7506&descSize=20&descAlignY=72&descColor=4da8ff&animation=blinking&stroke=1a5fd4&strokeWidth=1" width="100%" alt="Akbarov Dev Banner"/>
 
 <br/>
 
-<!-- Бейджи-контакты — социальные ссылки -->
-<!-- ⬇️ ЗАМЕНИ GRUMM7506 и GRUMM7506 -->
-<a href="https://t.me/GRUMM7506">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+<div align="center">
+
+<!--
+  Typing SVG — анимированный печатающийся текст.
+  font=Courier+Prime — монопространственный, выглядит как терминал.
+  color=4DA8FF — синий из логотипа.
+  Меняй строки в lines= (пробелы = %20, | = %7C).
+-->
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&pause=1200&color=4DA8FF&center=true&vCenter=true&random=false&width=650&height=55&lines=Flutter+Developer+%7C+Dushanbe+%F0%9F%87%B9%F0%9F%87%AF;Programmer-Mathematician+%E2%88%AB+%CF%80+%E2%88%9E;Turning+math+into+shipped+products;RTX+3060+%C3%97+Blender+%C3%97+Canon+6D+Mark+II;I+write+routes+faster+than+you+can+search+them+%F0%9F%9A%8C" alt="Typing animation"/>
 </a>
-&nbsp;
-<a href="https://github.com/GRUMM7506">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Dushanbe%2C%20Tajikistan-FF4500?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MSU%20Branch-2nd%20Year-blue?style=for-the-badge&logo=academia&logoColor=white" alt="Education"/>
 
 <br/><br/>
 
-<!-- Счётчик посетителей профиля -->
-<!-- ⬇️ ЗАМЕНИ GRUMM7506 -->
-<img src="https://komarev.com/ghpvc/?username=GRUMM7506&style=for-the-badge&color=6C8EFF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Контакты — бейджи под заголовком, палитра под логотип -->
+<a href="https://t.me/GRUMM7506">
+  <img src="https://img.shields.io/badge/%40GRUMM7506-0d1a35?style=for-the-badge&logo=telegram&logoColor=4da8ff&labelColor=050a14" alt="Telegram"/>
+</a>
+&ensp;
+<a href="https://github.com/GRUMM7506">
+  <img src="https://img.shields.io/badge/GRUMM7506-0d1a35?style=for-the-badge&logo=github&logoColor=e8f0ff&labelColor=050a14" alt="GitHub"/>
+</a>
+&ensp;
+<img src="https://img.shields.io/badge/Dushanbe%20%F0%9F%87%B9%F0%9F%87%AF-0d1a35?style=for-the-badge&logo=googlemaps&logoColor=4da8ff&labelColor=050a14" alt="Location"/>
+&ensp;
+<img src="https://img.shields.io/badge/MSU_Branch-2nd_Year-0d1a35?style=for-the-badge&logo=academia&logoColor=4da8ff&labelColor=050a14" alt="Education"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=GRUMM7506&style=for-the-badge&color=1a5fd4&label=PROFILE+VIEWS&abbreviated=true" alt="Profile views"/>
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<!-- ███████████████████ ABOUT ME ███████████████████ -->
 
 <div align="center">
 
-## `< about me />`
-
-</div>
-
-```yaml
-name: "Akbar"
-role: "Programmer-Mathematician & Flutter Developer"
-location: "Dushanbe, Tajikistan 🇹🇯"
-education: "MSU Branch, 2nd year"
-philosophy: "I turn mathematical abstractions into shipped products"
-
-currently:
-  - building: "TajGo — transport navigation for Dushanbe"
-  - learning: "Advanced OSRM routing algorithms"
-  - exploring: "Local LLM inference & AI pipelines"
-
-fun_fact: >
-  I model glass objects in Blender, then recreate the same
-  glassmorphism effects in Flutter UI. The GPU doesn't mind.
+```
+  ╔═══════════════════════════════════════════╗
+  ║           WHO IS GRUMM7506?               ║
+  ╚═══════════════════════════════════════════╝
 ```
 
-<br/>
+</div>
+
+```typescript
+const akbarov = {
+  name:     "Akbarov",
+  alias:    "GRUMM7506",
+  role:     ["Flutter Developer", "Programmer-Mathematician"],
+  location: "Dushanbe, Tajikistan 🇹🇯",
+  edu:      "MSU Branch · 2nd year",
+
+  coreSkills: {
+    mobile:   ["Flutter", "Dart", "Riverpod", "BLoC"],
+    backend:  ["FastAPI", "Python", "PostgreSQL", "OSRM"],
+    systems:  ["C++", "Algorithms", "Graph Theory"],
+    creative: ["Blender 3D", "Stable Diffusion", "ComfyUI"],
+  },
+
+  currentlyBuilding: "Маршрут Про — smart transport navigation for Dushanbe",
+  philosophy: "Math is the blueprint. Code is the construction. Users are the judge.",
+
+  funFact: `I glassmorphism everything: first model in Blender (glass shader),
+            then recreate the exact same effect in Flutter. RTX 3060 approves.`,
+} as const;
+```
 
 ---
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<!-- ███████████████████ TECH STACK ███████████████████ -->
 
 <div align="center">
 
-## `< tech stack />`
+```
+  ╔═══════════════════════════════════════════╗
+  ║              TECH ARSENAL                 ║
+  ╚═══════════════════════════════════════════╝
+```
 
-### 📱 Mobile & Frontend
+<!--
+  Бейджи: labelColor=050a14 — фон логотипа (почти чёрный).
+  Иконки: slugи с simpleicons.org (logoColor — свой для каждой технологии).
+-->
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Riverpod-6C8EFF?style=for-the-badge&logo=flutter&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/BLoC-00B4D8?style=for-the-badge&logo=flutter&logoColor=white"/>
+#### 📱 Mobile
 
-### ⚙️ Backend & Data
+<img src="https://img.shields.io/badge/Flutter-050a14?style=for-the-badge&logo=flutter&logoColor=4da8ff"/>
+<img src="https://img.shields.io/badge/Dart-050a14?style=for-the-badge&logo=dart&logoColor=4da8ff"/>
+<img src="https://img.shields.io/badge/Riverpod-050a14?style=for-the-badge&logo=flutter&logoColor=00d2ff"/>
+<img src="https://img.shields.io/badge/BLoC-050a14?style=for-the-badge&logo=flutter&logoColor=00b4d8"/>
+<img src="https://img.shields.io/badge/GetX-050a14?style=for-the-badge&logo=flutter&logoColor=5bc0f8"/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OSRM-FF6B35?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
+#### ⚙️ Backend
 
-### 🔬 Systems & Algorithms
+<img src="https://img.shields.io/badge/FastAPI-050a14?style=for-the-badge&logo=fastapi&logoColor=00e5b4"/>
+<img src="https://img.shields.io/badge/Python-050a14?style=for-the-badge&logo=python&logoColor=ffd43b"/>
+<img src="https://img.shields.io/badge/PostgreSQL-050a14?style=for-the-badge&logo=postgresql&logoColor=4da8ff"/>
+<img src="https://img.shields.io/badge/OSRM-050a14?style=for-the-badge&logo=openstreetmap&logoColor=7bc67e"/>
+<img src="https://img.shields.io/badge/PostGIS-050a14?style=for-the-badge&logo=postgresql&logoColor=336791"/>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+#### 🔬 Systems & Math
 
-### 🎨 Creative & AI
+<img src="https://img.shields.io/badge/C++-050a14?style=for-the-badge&logo=cplusplus&logoColor=659ad2"/>
+<img src="https://img.shields.io/badge/Graph_Theory-050a14?style=for-the-badge&logo=wolfram&logoColor=e8f0ff"/>
+<img src="https://img.shields.io/badge/Docker-050a14?style=for-the-badge&logo=docker&logoColor=2496ed"/>
+<img src="https://img.shields.io/badge/Git-050a14?style=for-the-badge&logo=git&logoColor=f05032"/>
+<img src="https://img.shields.io/badge/Linux-050a14?style=for-the-badge&logo=linux&logoColor=fcc624"/>
 
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Stable%20Diffusion-8A2BE2?style=for-the-badge&logo=stability-ai&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+#### 🎨 Creative & AI
+
+<img src="https://img.shields.io/badge/Blender-050a14?style=for-the-badge&logo=blender&logoColor=e87d0d"/>
+<img src="https://img.shields.io/badge/Stable_Diffusion-050a14?style=for-the-badge&logo=stabilityai&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/ComfyUI-050a14?style=for-the-badge&logo=python&logoColor=c8d6f0"/>
+<img src="https://img.shields.io/badge/Figma-050a14?style=for-the-badge&logo=figma&logoColor=f24e1e"/>
+<img src="https://img.shields.io/badge/Canon_6D_II-050a14?style=for-the-badge&logo=canon&logoColor=cc0000"/>
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+<!-- ███████████████████ PROJECTS ███████████████████ -->
 
 <div align="center">
 
-## `< projects />`
+```
+  ╔═══════════════════════════════════════════╗
+  ║             SHIPPED PRODUCTS              ║
+  ╚═══════════════════════════════════════════╝
+```
 
 </div>
 
-<!-- 
-  КАРТОЧКИ ПРОЕКТОВ: GitHub не рендерит CSS-сетки.
-  Используем таблицу — это лучший способ сделать 2 колонки в Markdown.
+<!--
+  Репозитории приватные → ссылки на Play Store вместо GitHub.
+  Замени https://play.google.com/store/apps/details?id=com.akbarov.map_route_app&pcampaignid=web_share и [PLAY_STORE_MASTEROK] на реальные URL.
+  Если приложение ещё не опубликовано, замени кнопку на:
+  <img src="https://img.shields.io/badge/Coming_to_Play_Store-1a3a6b?style=for-the-badge&logo=googleplay&logoColor=4da8ff"/>
 -->
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ TajGo
-> *Навигация, которую ждал Душанбе*
+<div align="center">
 
-Мобильное приложение для оптимизации маршрутов городского транспорта Душанбе. Решает реальную проблему — отсутствие умной навигации для маршруток и автобусов.
+### 🗺️ `Маршрут Про`
+**Transport Navigation · Dushanbe**
 
-**Ключевые особенности:**
-- ⚡ Оптимизация маршрутов через OSRM
-- 🗺️ Офлайн-карты на базе OpenStreetMap
-- 🚌 Real-time отслеживание транспорта
-- 📊 PostgreSQL с PostGIS для геоданных
+</div>
 
-**Стек:**
+> *Потому что Яндекс не знает наши маршрутки*
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![OSRM](https://img.shields.io/badge/OSRM-FF6B35?style=flat-square&logo=openstreetmap&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+Первое умное приложение для навигации по городскому транспорту Душанбе. Алгоритм OSRM с кастомной матрицей весов по реальным остановкам.
 
-<!-- ⬇️ ЗАМЕНИ ССЫЛКУ НА РЕПОЗИТОРИЙ -->
-<br/>
-<a href="https://github.com/GRUMM7506/tajgo">
-  <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+**Architecture decisions:**
+- `OSRM` — routing engine (C++ core, открытый код)
+- `PostGIS` — геопространственные SQL-запросы
+- `OpenStreetMap` — офлайн-картографика
+- `FastAPI` — REST API для актуальных данных
+
+**What makes it stand out:**
+```
+✦ Учитывает реальные пересадки
+✦ Офлайн-режим без интернета
+✦ Оптимизация by time, not by distance
+✦ Первое подобное решение для Душанбе
+```
+
+<div align="center">
+
+<a href="https://play.google.com/store/apps/details?id=com.akbarov.map_route_app&pcampaignid=web_share">
+  <img src="https://img.shields.io/badge/Google_Play-050a14?style=for-the-badge&logo=googleplay&logoColor=4da8ff" alt="Play Store"/>
 </a>
+<br/>
+<img src="https://img.shields.io/badge/Flutter%20·%20OSRM%20·%20PostgreSQL-1a3a6b?style=flat-square&logoColor=4da8ff" alt="Stack"/>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ MasterOK
-> *Маркетплейс нового поколения*
+<div align="center">
 
-Платформа для поиска и найма мастеров — соединяет специалистов с клиентами. Полный цикл: от поиска до оплаты.
+### 🛠️ `MasterOK`
+**Services Marketplace**
 
-**Ключевые особенности:**
-- 👤 Профили мастеров с портфолио
-- 🔍 Умный поиск по навыкам и локации
-- 💬 In-app мессенджер
-- ⭐ Система рейтингов и отзывов
+</div>
 
-**Стек:**
+> *Найди мастера. Или стань им.*
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+Двусторонний маркетплейс мастеров и клиентов. Умный матчинг по специализации, локации и рейтингу.
 
-<!-- ⬇️ ЗАМЕНИ ССЫЛКУ НА РЕПОЗИТОРИЙ -->
-<br/>
-<a href="https://github.com/GRUMM7506/masterok">
-  <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+**Architecture decisions:**
+- `Flutter` — единая кодовая база iOS + Android
+- `FastAPI` — async backend, WebSocket чат
+- `PostgreSQL` — реляционная модель + индексы
+- `JWT` — auth + refresh token flow
+
+**What makes it stand out:**
+```
+✦ In-app мессенджер (WebSocket real-time)
+✦ Верификация мастеров
+✦ Портфолио с фото / до-после
+✦ Рейтинг + система отзывов
+```
+
+<div align="center">
+
+<a href="[PLAY_STORE_MASTEROK]">
+  <img src="https://img.shields.io/badge/Google_Play-050a14?style=for-the-badge&logo=googleplay&logoColor=4da8ff" alt="Play Store"/>
 </a>
+<br/>
+<img src="https://img.shields.io/badge/Flutter%20·%20FastAPI%20·%20PostgreSQL-1a3a6b?style=flat-square&logoColor=4da8ff" alt="Stack"/>
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ---
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+<!-- ███████████████████ GITHUB STATS ███████████████████ -->
 
 <div align="center">
 
-## `< stats />`
+```
+  ╔═══════════════════════════════════════════╗
+  ║               METRICS                     ║
+  ╚═══════════════════════════════════════════╝
+```
 
-<!-- 
-  ВАЖНО: Замени GRUMM7506 во ВСЕХ ссылках ниже.
-  Темы можно поменять на: dark, radical, merko, gruvbox, tokyonight, 
-  onedark, cobalt, synthwave, highcontrast, dracula
+<!--
+  bg_color=050a14 — точный цвет фона из логотипа.
+  title_color=4da8ff, icon_color=4da8ff — синий акцент из логотипа.
+  border_color=1a3a6b — приглушённая синяя рамка.
+  Меняй тему на: github_dark, dark, radical, tokyonight, onedark.
 -->
 
-<!-- Основная статистика -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GRUMM7506&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C8EFF&icon_color=6C8EFF&text_color=c9d1d9"/>
+<img height="175px"
+  src="https://github-readme-stats.vercel.app/api?username=GRUMM7506&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=050a14&title_color=4da8ff&icon_color=4da8ff&text_color=c8d6f0&border_color=1a3a6b&ring_color=1a5fd4&hide_border=false&custom_title=GRUMM7506+Stats"
+  alt="GitHub Stats"/>
+<img height="175px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRUMM7506&layout=compact&langs_count=7&theme=github_dark&bg_color=050a14&title_color=4da8ff&text_color=c8d6f0&border_color=1a3a6b&hide_border=false&custom_title=Top+Languages"
+  alt="Top Languages"/>
 
-<!-- Топ языков -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRUMM7506&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C8EFF&text_color=c9d1d9"/>
+<br/>
 
-<br/><br/>
+<!--
+  Streak Stats — серия дней активности. Самый эффектный виджет.
+  Если не грузится на demolab, замени домен на:
+  github-readme-streak-stats.herokuapp.com
+-->
+<img
+  src="https://streak-stats.demolab.com?user=GRUMM7506&theme=github-dark-blue&background=050a14&border=1a3a6b&stroke=1a5fd4&ring=4da8ff&fire=4da8ff&currStreakNum=e8f0ff&sideNums=c8d6f0&currStreakLabel=4da8ff&sideLabels=4da8ff&dates=6888bb"
+  alt="GitHub Streak"/>
 
-<!-- Streak — серия дней активности -->
-<img src="https://streak-stats.demolab.com?user=GRUMM7506&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C8EFF&ring=6C8EFF&fire=FF6B35&currStreakLabel=6C8EFF&sideLabels=6C8EFF&dates=a0a8c0" alt="GitHub Streak"/>
+<br/>
 
-<br/><br/>
+<!--
+  Activity Graph — анимированный (обновляется каждые 24 часа).
+  area=true — заливка под графиком, выглядит богаче.
+-->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=GRUMM7506&bg_color=050a14&color=4da8ff&line=1a5fd4&point=4da8ff&area=true&area_color=1a3a6b&hide_border=true&custom_title=Contribution+Graph"
+  alt="Activity Graph" width="96%"/>
 
-<!-- График активности — анимированная змейка -->
-<!-- 
-  Для этого нужно настроить GitHub Actions.
-  Создай файл .github/workflows/snake.yml со следующим содержимым:
-  
-  name: Generate Snake Animation
+</div>
+
+---
+
+<!-- ███████████████████ HARDWARE & CREATIVE SETUP ███████████████████ -->
+
+<div align="center">
+
+```
+  ╔═══════════════════════════════════════════╗
+  ║          HARDWARE + CREATIVE LAB          ║
+  ╚═══════════════════════════════════════════╝
+```
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+**`[GPU]`**
+### 🖥️ RTX 3060
+
+```yaml
+CUDA Cores:  3584
+VRAM:        12 GB GDDR6
+Use cases:
+  - Stable Diffusion local
+  - ComfyUI pipelines
+  - Blender GPU render
+  - Neural net inference
+```
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**`[3D]`**
+### 🎨 Blender 3D
+
+```yaml
+Speciality: Glassmorphism
+Techniques:
+  - Glass BSDF shaders
+  - Caustics rendering
+  - UI mockup renders
+  - Material studies
+```
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**`[OPTICS]`**
+### 📷 Canon 6D Mark II
+
+```yaml
+Sensor: 26.2 MP Full Frame
+Style:
+  - Street photography
+  - Technical subjects
+  - UI reference shots
+  - Architecture
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> *Composition from photography → applied to UI layout.*  
+> *Graph theory from math → applied to route optimization.*  
+> *Glass shaders from Blender → recreated as Flutter BackdropFilter.*  
+> **Everything connects.**
+
+</div>
+
+---
+
+<!-- ███████████████████ SNAKE ANIMATION ███████████████████ -->
+
+<!--
+  ═══════════════════════════════════════════════════════════
+  SNAKE ANIMATION SETUP — делает профиль живым (5 минут)
+  ═══════════════════════════════════════════════════════════
+
+  1. Создай файл .github/workflows/snake.yml в репозитории
+  2. Вставь содержимое:
+
+  name: Generate Snake
   on:
-    schedule: [{cron: "0 0 * * *"}]
+    schedule:
+      - cron: "0 6 * * *"
     workflow_dispatch:
-    push: {branches: [main]}
+    push:
+      branches: [main]
   jobs:
-    generate:
+    build:
       runs-on: ubuntu-latest
       steps:
         - uses: Platane/snk/svg-only@v3
           with:
             github_user_name: GRUMM7506
-            outputs: dist/snake.svg?palette=github-dark
+            outputs: |
+              dist/snake.svg
+              dist/snake-dark.svg?palette=github-dark
         - uses: crazy-max/ghaction-github-pages@v3
           with:
             target_branch: output
@@ -259,101 +404,37 @@ fun_fact: >
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  После настройки раскомментируй строку ниже:
+  3. Запусти Actions вручную
+  4. Раскомментируй строку img ниже:
 -->
-<!-- <img src="https://raw.githubusercontent.com/GRUMM7506/GRUMM7506/output/snake.svg" alt="Snake animation"/> -->
-
-<!-- Временный placeholder пока не настроен Snake -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GRUMM7506&bg_color=0d1117&color=6C8EFF&line=6C8EFF&point=FF6B35&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════ HARDWARE & CREATIVE ═══════════════════ -->
 
 <div align="center">
 
-## `< hardware & creative setup />`
+<!-- ПОСЛЕ НАСТРОЙКИ SNAKE — убери комментарий с этой строки: -->
+<img src="https://raw.githubusercontent.com/GRUMM7506/GRUMM7506/output/snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
-> *Хорошие инструменты делают хорошие продукты*
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-**🖥️ Рабочая станция**
-
-```
-GPU: NVIDIA RTX 3060
-    ├── CUDA для AI-инференса
-    ├── ComfyUI local pipelines
-    └── Stable Diffusion локально
-```
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🎨 3D & Design**
-
-```
-Blender 3D
-    ├── Glassmorphism эффекты
-    ├── Glass material shaders
-    └── UI mockup рендеры
-```
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**📷 Фотография**
-
-```
-Canon 6D Mark II
-    ├── Полный кадр 35mm
-    ├── Уличная съёмка
-    └── Технические сюжеты
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-```
-Философия: Я использую те же принципы композиции из фотографии
-           в UI-дизайне, а математику — в алгоритмах маршрутизации.
-           Всё связано.
-```
-
-<br/>
-
 ---
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<!-- ███████████████████ FOOTER ███████████████████ -->
 
 <div align="center">
 
-<!-- Анимированный разделитель снизу -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,40:091228,80:0d1a35,100:050a14&height=130&section=footer&animation=fadeIn" width="100%" alt="Footer Wave"/>
 
-<!-- Финальная фраза -->
-*"Пишу алгоритмы быстрее, чем ты ищешь маршрут на Яндексе."*
-
-<!-- ⬇️ ЗАМЕНИ GRUMM7506 -->
 <br/>
+
+*Built with math, shipped with Flutter, rendered on RTX 3060.*
+
+<br/>
+
 <a href="https://t.me/GRUMM7506">
-  <img src="https://img.shields.io/badge/Let's%20talk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Write%20me%20on%20Telegram-050a14?style=for-the-badge&logo=telegram&logoColor=4da8ff" alt="Telegram"/>
 </a>
 
 <br/><br/>
 
-<!-- Последнее обновление — автоматически через GitHub Actions -->
-<sub>Last updated: 2025 · Built with ☕ in Dushanbe, Tajikistan</sub>
+<sub><code>GRUMM7506</code> · Dushanbe, Tajikistan · MSU Branch 2025</sub>
 
-</div># GRUMM7506
+</div>
