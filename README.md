@@ -208,7 +208,7 @@ const akbarov = {
 
 <div align="center">
 
-### 🛠️ `MasterOK`
+### 🛠️ `ДОМастер`
 **Services Marketplace**
 
 </div>
@@ -233,7 +233,7 @@ const akbarov = {
 
 <div align="center">
 
-<a href="[PLAY_STORE_MASTEROK]">
+<a href="https://play.google.com/store/apps/details?id=com.domaster.app&pcampaignid=web_share">
   <img src="https://img.shields.io/badge/Google_Play-050a14?style=for-the-badge&logo=googleplay&logoColor=4da8ff" alt="Play Store"/>
 </a>
 <br/>
@@ -295,69 +295,6 @@ const akbarov = {
 </div>
 
 ---
-
-<!-- ███████████████████ HARDWARE & CREATIVE SETUP ███████████████████ -->
-
-<div align="center">
-
-```
-  ╔═══════════════════════════════════════════╗
-  ║          HARDWARE + CREATIVE LAB          ║
-  ╚═══════════════════════════════════════════╝
-```
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-**`[GPU]`**
-### 🖥️ RTX 3060
-
-```yaml
-CUDA Cores:  3584
-VRAM:        12 GB GDDR6
-Use cases:
-  - Stable Diffusion local
-  - ComfyUI pipelines
-  - Blender GPU render
-  - Neural net inference
-```
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**`[3D]`**
-### 🎨 Blender 3D
-
-```yaml
-Speciality: Glassmorphism
-Techniques:
-  - Glass BSDF shaders
-  - Caustics rendering
-  - UI mockup renders
-  - Material studies
-```
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**`[OPTICS]`**
-### 📷 Canon 6D Mark II
-
-```yaml
-Sensor: 26.2 MP Full Frame
-Style:
-  - Street photography
-  - Technical subjects
-  - UI reference shots
-  - Architecture
-```
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -425,7 +362,7 @@ Style:
 
 <br/>
 
-*Built with math, shipped with Flutter, rendered on RTX 3060.*
+*Built with math, shipped with Flutter.*
 
 <br/>
 
@@ -435,6 +372,6 @@ Style:
 
 <br/><br/>
 
-<sub><code>GRUMM7506</code> · Dushanbe, Tajikistan · MSU Branch 2025</sub>
+<sub><code>GRUMM7506</code> · Dushanbe, Tajikistan · MSU Branch 2026</sub>
 
 </div>
